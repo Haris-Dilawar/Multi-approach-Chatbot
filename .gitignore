@@ -1,0 +1,13 @@
+config.json
+__pycache__
+myvn
+intents.json
+q_a.txt
+llm.txt
+model.tflearn.data-00000-of-00001
+model.tflearn.index
+model.tflearn.meta
+db.sqlite3
+database.sqlite3
+data.pickle
+checkpoint
